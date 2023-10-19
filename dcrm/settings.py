@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'crudapp_db',
         'USER': 'postgres',
         'PASSWORD': 'admin123',
-        'HOST': 'localhost',
+        'HOST': 'db',
         'PORT': 5432,
     }
 }
